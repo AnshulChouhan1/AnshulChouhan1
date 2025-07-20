@@ -6,7 +6,8 @@
 
 <a href="[https://linkedin.com/in/faizal-imam-45a561236](https://www.linkedin.com/in/anshul-chouhan-606413264/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizal-imam-45a561236" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/16Wy5sicTF/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faizalimam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/anshulchouhan031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faizalimam017" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/anshulchouhan031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faizalimam017" height="30" width="40" /></a> https://x.com/chohan_ans51374?t=dZdf_1PQPzWxhu1zuXW1Xg&s=08
+<a href="https://x.com/chohan_ans51374?t=dZdf_1PQPzWxhu1zuXW1Xg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devilha70411231" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
