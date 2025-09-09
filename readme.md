@@ -11,37 +11,9 @@
 </p>
 
 # 💻 Tech Stack  
-# 💻 Tech Stack  
 
-### 🌐 Web Development  
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=flat-square)](https://flask.palletsprojects.com/)  
-[![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)](https://www.djangoproject.com/)  
-[![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat-square)](https://wordpress.org/)  
-[![Apache](https://img.shields.io/badge/-Apache-D42029?logo=apache&logoColor=white&style=flat-square)](https://httpd.apache.org/)  
-
-### 🐍 Programming & Frameworks  
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)  
-[![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square)](https://www.anaconda.com/)  
-
-### 🗄️ Databases  
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)](https://www.mysql.com/)  
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)](https://www.sqlite.org/)  
-
-### 📊 Data Science & Visualization  
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)](https://numpy.org/)  
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)](https://pandas.pydata.org/)  
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?logo=plotly&logoColor=000&style=flat-square)](https://matplotlib.org/)  
-[![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)](https://scikit-learn.org/)  
-[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat-square)](https://powerbi.microsoft.com/)  
-
-### ⚙️ Tools & Platforms  
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)  
-[![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat-square)](https://vercel.com/)  
-[![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?logo=windows-terminal&logoColor=white&style=flat-square)](https://learn.microsoft.com/en-us/windows/terminal/)  
-[![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat-square)](https://www.canva.com/)  
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white&style=flat-square)](https://flask.palletsprojects.com/)  [![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)](https://www.djangoproject.com/)  [![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat-square)](https://wordpress.org/)  [![Apache](https://img.shields.io/badge/-Apache-D42029?logo=apache&logoColor=white&style=flat-square)](https://httpd.apache.org/)  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)  [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square)](https://www.anaconda.com/)  [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)](https://www.mysql.com/)  [![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)](https://www.sqlite.org/)   [![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)](https://numpy.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)](https://pandas.pydata.org/)  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?logo=plotly&logoColor=000&style=flat-square)](https://matplotlib.org/)  [![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)](https://scikit-learn.org/)  [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat-square)](https://powerbi.microsoft.com/)  
+ [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)  [![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat-square)](https://vercel.com/)  [![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?logo=windows-terminal&logoColor=white&style=flat-square)](https://learn.microsoft.com/en-us/windows/terminal/)  [![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat-square)](https://www.canva.com/)  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnshulChouhan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
